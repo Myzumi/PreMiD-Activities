@@ -1,0 +1,22 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.13",
+  "apiVersion": 1,
+  "author": {
+    "id": "233592823562240000",
+    "name": "myzumi"
+  },
+  "service": "ILoveMusic",
+  "description": {
+    "en": "TODO"
+  },
+  "url": "ilovemusic.de",
+  "version": "1.0.0",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/I/I%20Love%20Music/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/I/I%20Love%20Music/assets/logo.png",
+  "color": "#9900ff",
+  "category": "music",
+  "tags": [
+    "music",
+    "radio"
+  ]
+}
